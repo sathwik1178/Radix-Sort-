@@ -1,1 +1,1 @@
-# Radix-Sort-
+Radix Sort is a non-comparative sorting algorithm that avoids direct comparisons between elements. It organizes data by processing individual digits of integers or characters of strings, typically starting from the least significant digit (LSD) toward the most significant digit (MSD)
